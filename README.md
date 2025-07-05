@@ -178,7 +178,24 @@ ORDER BY [Order_Priority], [Ship_Mode] DESC;
 
 
 
-###### ANALYSIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###### ANALYSIS (EXCEL)
 
 
 ![Uploading Screenshot (52).png…]()
