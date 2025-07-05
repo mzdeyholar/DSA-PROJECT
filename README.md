@@ -51,3 +51,8 @@ ADD COLUMN product_base_margin DECIMAL(5,2),
 ADD COLUMN ship_date DATE;
 
 
+![Screenshot (53)](https://github.com/user-attachments/assets/c28bf82a-45cb-4b3a-b8bb-480684efad6c)
+
+
+
+![Screenshot (54)](https://github.com/user-attachments/assets/27c0bd12-4e0d-4fb8-84cb-3838432074a3)
