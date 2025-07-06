@@ -79,6 +79,9 @@ KEY PERFORMANCE METRICS:
 10. What is the number of unique products per price range bucket (e.g., <₹200, 
 ₹200–₹500, >₹500)? 
 11. How does the rating relate to the level of discount?
+12. How many products have fewer than 1,000 reviews? 
+13. Which categories have products with the highest discounts? 
+14. Identify the top 5 products in terms of rating and number of reviews combined.
     
 
 
