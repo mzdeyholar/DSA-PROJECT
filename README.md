@@ -53,10 +53,10 @@ KEY PERFORMANCE METRICS:
 
 
 
+![Rating Distribution (2)](https://github.com/user-attachments/assets/12d546d6-c73b-48e2-8cd3-5ddbfc7b97b1)
 
 
- ![Rating Distribution (2)](https://github.com/user-attachments/assets/3e118b47-1800-4322-ad5c-31b16e2)
- 
+
  
  
  1. What is the average discount percentage by product category?
