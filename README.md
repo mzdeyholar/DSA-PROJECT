@@ -60,6 +60,25 @@ KEY PERFORMANCE METRICS:
  
  
  1. What is the average discount percentage by product category?
+
+2. How many products are listed under each category?
+
+
+
+
+
+3. What is the total number of reviews per category?  
+4. Which products have the highest average ratings?
+
+5. What is the average actual price vs the discounted price by category? 
+6. Which products have the highest number of reviews? 
+7. How many products have a discount of 50% or more? 
+8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 
+4.0, etc.)? 
+9. What is the total potential revenue (actual_price × rating_count) by category? 
+10. What is the number of unique products per price range bucket (e.g., <₹200, 
+₹200–₹500, >₹500)? 
+11. How does the rating relate to the level of discount?
     
 
 
@@ -102,12 +121,3 @@ KEY PERFORMANCE METRICS:
 
 
 
-###### ANALYSIS (EXCEL)
-
-
-![Uploading Screenshot (52).png…]()
-![Screenshot (53)](https://github.com/user-attachments/assets/c28bf82a-45cb-4b3a-b8bb-480684efad6c)
-
-
-
-![Screenshot (54)](https://github.com/user-attachments/assets/27c0bd12-4e0d-4fb8-84cb-3838432074a3)
