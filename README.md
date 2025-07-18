@@ -257,34 +257,110 @@ Future steps may include:
 
 
 
+###### DATA ANALYSIS
+####### VISUAL REPRESENTATION OF DATA
+
+KEY PERFORMANCE METRICS:
+
+
+<img width="997" height="491" alt="Dashboard" src="https://github.com/user-attachments/assets/6b328343-07a4-441c-acf7-4ce7f980a65c" />
+
+
+
+<img width="753" height="292" alt="Product Category Overview" src="https://github.com/user-attachments/assets/83e742a2-7c14-4d13-8197-2cc4f4b9766c" />
+
+
+<img width="754" height="309" alt="Revenue and Review Insights" src="https://github.com/user-attachments/assets/04a068b7-d30b-4d22-87ba-eaada6ce9b66" />
+
+
+<img width="741" height="295" alt="Price Range Analysis" src="https://github.com/user-attachments/assets/1a7a5d49-e892-4d22-b88b-434295cffd7e" />
+
+
+<img width="1077" height="303" alt="Product Performance Table" src="https://github.com/user-attachments/assets/56333eae-9783-4f69-9b0f-4e7afc48ea06" />
+
+
+<img width="767" height="302" alt="Top Products" src="https://github.com/user-attachments/assets/186540b0-e487-4428-b1f8-9c62544dc57a" />
+
+
+<img width="762" height="315" alt="Discount and Rating Relationship (2)" src="https://github.com/user-attachments/assets/63d0ef94-0bf6-4fb0-9248-64f3ea363c37" />
+
+
+
+<img width="436" height="298" alt="Rating Distribution (2)" src="https://github.com/user-attachments/assets/3bdb7cb5-12af-4636-97b3-34daf6dba7ea" />
 
 
 
 
 
 
+ 1. What is the average discount percentage by product category?
+
+2. How many products are listed under each category?
 
 
 
+<img width="1020" height="313" alt="1 AND 2" src="https://github.com/user-attachments/assets/b6dc8d28-91e9-4fe6-9cd3-b7c09262ab67" />
+
+
+3. What is the total number of reviews per category?  
+4. Which products have the highest average ratings?
 
 
 
+<img width="1077" height="294" alt="3 AND 4" src="https://github.com/user-attachments/assets/23e40ace-009a-4ce2-81d4-c9a77d132998" />
 
 
+5. What is the average actual price vs the discounted price by category?
 
 
+<img width="516" height="282" alt="5" src="https://github.com/user-attachments/assets/26624e49-3a69-4d31-95d4-43dd772f3018" />
 
 
+6. Which products have the highest number of reviews?
 
 
+<img width="531" height="280" alt="6" src="https://github.com/user-attachments/assets/b163aaa1-0b40-4f3e-bde2-228d491e1635" />
 
 
+7. How many products have a discount of 50% or more?
 
 
+<img width="463" height="290" alt="7" src="https://github.com/user-attachments/assets/70a010e7-623f-42b1-95b4-4d5f4ba569d8" />
 
 
+8. What is the distribution of product ratings?
+
+9. What is the total potential revenue (actual_price × rating_count) by category?
+
+<img width="483" height="305" alt="9" src="https://github.com/user-attachments/assets/27dc24e4-a41b-4e4c-ade3-ac33dba2231c" />
 
 
+10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?
 
+
+<img width="430" height="206" alt="10" src="https://github.com/user-attachments/assets/49e9cdd4-6724-483d-bb6d-eceb2d2c9a64" />
+
+
+11. How does the rating relate to the level of discount? 
+
+<img width="465" height="275" alt="11" src="https://github.com/user-attachments/assets/1b2d8b81-b0c9-4343-9efc-defccd0e30e7" />
+
+
+12. How many products have fewer than 1,000 reviews?
+
+
+<img width="477" height="259" alt="12" src="https://github.com/user-attachments/assets/f7a605f8-a79f-4b14-b96c-139b252eeb23" />
+
+
+13. Which categories have products with the highest discounts?
+
+
+<img width="469" height="286" alt="13" src="https://github.com/user-attachments/assets/e458eea1-934f-4390-badc-cc7f316cbfb5" />
+
+
+14. Identify the top 5 products in terms of rating and number of reviews combined.
+    
+
+<img width="448" height="258" alt="14" src="https://github.com/user-attachments/assets/1162f051-e148-4870-b76c-fc8bf560f138" />
 
 
