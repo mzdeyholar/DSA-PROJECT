@@ -87,7 +87,7 @@ These same categories also led in total reviews, indicating both high supply and
 
 2.  Discount Percentage Analysis
 
-``` Highest Average Discounts:
+Highest Average Discounts:
 
 Home Improvement (58%)
 
