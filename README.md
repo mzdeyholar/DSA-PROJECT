@@ -5,14 +5,117 @@ My developmental milestone in DSA
 
 ###AMAZON PROJECT
 
-####PROJECT OVERVIEW
+Amazon Product and Customer Review Analysis
+Project Overview
+As a Junior Data Analyst at Retail Tech Insights, an e-commerce analytics company supporting Amazon sellers, I conducted a comprehensive analysis of Amazon product and customer review data using Microsoft Excel. The purpose of this project was to extract actionable insights that can guide:
+•	Product improvement
+•	 Marketing strategies
+•	 Customer engagement
+The project leveraged data cleaning, pivot tables, and chart visualizations to uncover trends in product categories, pricing, ratings, and discount strategies.
+Tools Used
+•	Microsoft Excel
+o	Data Cleaning & Formatting
+o	Pivot Tables for Aggregation
+o	Charts for Visualization (Pie, Column, Scatter)
+•	KPI Dashboards for summarizing business-critical metrics
 
-A project analysed to generate insights that can guide product improvement, marketing strategies, and customer engagement in Amazon. 
+About Amazon
+Amazon is a global leader in e-commerce, cloud computing, and AI. It offers millions of products across diverse categories. By leveraging customer reviews and sales data, Amazon optimizes product listings, improves customer satisfaction, and enhances product discoverability. This project provides an analytical snapshot of how product performance and customer sentiment drive Amazon’s marketplace.
+ Project Purpose
+The goal was to analyze product and review data to:
+•	Evaluate product performance across categories
+•	Understand customer behavior and sentiment
+•	Identify high-performing products and areas of improvement
+•	Reveal patterns between discount strategies and customer feedback
 
-##### TOOLS USED
-- Microsoft EXCEL [Download Here] {microsoft.com}
-  -- For data cleaning
-  -- Data mnipulation
+Key Performance Indicators (KPIs)
+KPI	Value (Sample Insights)
+Total Number of Products	1,465 products analyzed
+Total Reviews (Sum of Rating Count)	High engagement in electronics and tech
+Average Discount %	Home Improvement: 58%, Computers: 54%
+Total Potential Revenue	Electronics: ₹98 billion
+
+ Key Insights & Analysis
+1.  Product Category Performance
+•	Top 3 categories by product count:
+o	Electronics (526)
+o	Computers & Accessories (453)
+o	Home & Kitchen (448)
+•	These same categories also led in total reviews, indicating both high supply and demand.
+ Recommendation: Amazon sellers should prioritize optimizing listings in these categories, considering high visibility and competition.
+
+2.  Discount Percentage Analysis
+•	Highest Average Discounts:
+o	Home Improvement (58%)
+o	Computers & Accessories (54%)
+o	Health & Personal Care (53%)
+o	Electronics (51%)
+•	Outlier: Car & Motorbike products had a 94% discount but were few in number.
+ Insight: High discounts don’t always equate to high reviews or strong customer loyalty.
+Recommendation: Evaluate discount efficiency through A/B testing. Focus on strategic discounts for products with already good performance to increase ROI rather than discounting poor performers heavily.
+3.  Price Range Distribution
+Price Range	Product Count
+< ₹200	190
+₹200–₹500	377
+> ₹500	889
+•	Most products fall in the premium range (>₹500).
+•	Electronics had the highest average price and discounted price, followed by Home & Kitchen and Car & Motorbike.
+Recommendation: Emphasize value-based marketing for premium items, highlighting features and durability. For lower-price segments, use volume-driven marketing (flash sales, bundles).
+
+4. Product Performance Table
+•	Top product counts:
+o	Electronics: 526
+o	Computers & Accessories: 453
+o	Home & Kitchen: 448
+•	Top Products by Combined Score (reviews × rating):
+1.	AmazonBasics Flexible Premium HDMI Cable (4K@60Hz) – Score: 862.445
+2.	Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack) – Score: 431.373
+3.	Amazon Basics High-Speed HDMI Cable, 6 Feet – Score: 431.373
+These cables demonstrate the power of simple, functional products paired with good pricing and customer satisfaction.
+Recommendation: Use similar products as benchmark for SEO optimization and customer-focused product development.
+
+5. **Rating vs. Discount Analysis**
+•	No strong correlation between discount % and average rating.
+•	Products with 50%+ discounts: 751
+•	Products with <50% discounts: 714
+Insight: Discounts don’t directly influence customer satisfaction.
+Recommendation: Rather than relying solely on discounts, emphasize product quality, accurate descriptions, and fast delivery. Build trust for long-term engagement.
+
+6.** Customer Sentiment by Rating**
+•	Highest Rated (avg. rating):
+o	Toys & Games: 4.5 (1 product, low discount)
+o	Health & Personal Care: 4.31
+o	Car & Motorbike: 4.3
+Insight: Even with minimal discounts, high quality and satisfaction can drive great reviews.
+Recommendation: Monitor average product ratings as a KPI. Invest in customer experience over discounting where possible.
+
+**Key Takeaways**
+Area	Observation	Recommendation
+Product Popularity	Electronics leads in count, revenue, and reviews	Invest in premium product optimization and inventory
+Discount Strategy	High discount ≠ High rating	Use targeted discounts only on quality or trending items
+Price Sensitivity	₹500+ segment dominates	Highlight durability, value, and user benefits
+Customer Sentiment	Quality > Discount	Focus on verified quality, delivery speed, and packaging
+Product Category Spread	Underrepresented categories (e.g., Toys) perform well	Explore niche markets for product expansion
+
+Business Implications
+By leveraging this analysis, Amazon sellers and marketplace strategists can:
+•	Target high-growth product categories
+•	Reduce unnecessary discounting
+•	Improve product positioning and pricing strategies
+•	Foster customer loyalty through quality, not just price
+•	Use rating data to inform inventory and sourcing decisions
+
+ **Project Files**
+File	Description
+Amazon_Review_Analysis.xlsx	Cleaned dataset with pivot tables
+KPI_Dashboard.png	Visual summary of metrics
+README.md	Project documentation and insights
+**Final Thoughts**
+This project demonstrates how Excel-powered analysis can deliver meaningful business intelligence. By cleaning and visualizing Amazon data, we’ve uncovered patterns that drive better product, pricing, and customer engagement decisions.
+Future steps may include:
+•	Automating this workflow with Python (Pandas, Matplotlib) or Power BI
+•	Performing time-series analysis on seasonal product trends
+•	Building a product recommendation model based on ratings and price sensitivity
 
   ###### DATA ANALYSIS
 ####### VISUAL REPRESENTATION OF DATA
